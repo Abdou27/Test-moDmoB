@@ -1,0 +1,13 @@
+E:\ASP.NET Projects\MoDMoBTest\bin\Debug\netcoreapp3.1\MoDMoBTest.exe
+E:\ASP.NET Projects\MoDMoBTest\bin\Debug\netcoreapp3.1\MoDMoBTest.deps.json
+E:\ASP.NET Projects\MoDMoBTest\bin\Debug\netcoreapp3.1\MoDMoBTest.runtimeconfig.json
+E:\ASP.NET Projects\MoDMoBTest\bin\Debug\netcoreapp3.1\MoDMoBTest.runtimeconfig.dev.json
+E:\ASP.NET Projects\MoDMoBTest\bin\Debug\netcoreapp3.1\MoDMoBTest.dll
+E:\ASP.NET Projects\MoDMoBTest\bin\Debug\netcoreapp3.1\MoDMoBTest.pdb
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.csproj.AssemblyReference.cache
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.AssemblyInfoInputs.cache
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.AssemblyInfo.cs
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.csproj.CoreCompileInputs.cache
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.dll
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.pdb
+E:\ASP.NET Projects\MoDMoBTest\obj\Debug\netcoreapp3.1\MoDMoBTest.genruntimeconfig.cache
